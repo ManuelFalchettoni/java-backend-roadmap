@@ -23,4 +23,19 @@
 hs_err_pid*
 replay_pid*
 
+# IntelliJ IDEA
 .idea/
+*.iml
+out/
+gen/
+
+# Maven (por si luego lo usas)
+target/
+
+# Gradle (por si luego lo usas)
+.gradle/
+build/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
